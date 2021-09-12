@@ -1,6 +1,6 @@
 # Deep-Learning
 
-MLP vs Deep+ MLP: Herein a simple and common compration between multilayer perceptron and deep neural network presented on 4 benchmark dataset which contains: 1-MNist 2-Fashion MNist 3-Cfar10 4-Cfar100.
+MLP vs Deep+ MLP: Herein a simple and common compration between multilayer perceptron and deep neural network presented on 4 benchmark dataset which contains: MNist, Fashion MNist, Cfar10, and Cfar100.
 result are tableau below.
 
 | Benchmark Name | MLP| Deep Neural Networks |
