@@ -9,4 +9,4 @@ Results are tableau below.
 | MNist  | 0.9706     | 0.9455    |
 |Fashion MNist     | 0.8609       | 0.7810    |
 |Cfar10     | 0.1005       | 0.4053      |
-|Cfar100     | 0.0086       | 0.0211      |
+|Cfar100     | 0.0086       | 0.4522      |
