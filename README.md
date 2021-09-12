@@ -6,7 +6,7 @@ Results are tableau below.
 
 | Benchmark Name | MLP| Deep Neural Networks |
 | :---         |     :---:      |          :---: |
-| MNist  | 0.9706     | 0.9455    |
+| MNist  | 0.9706     | 0.9967    |
 |Fashion MNist     | 0.8609       | 0.7810    |
 |Cfar10     | 0.1005       | 0.8134      |
 |Cfar100     | 0.0086       | 0.4522      |
