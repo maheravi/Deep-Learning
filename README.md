@@ -15,4 +15,4 @@ Results of model accuracy are tableau below.
 
 ### Rouhaniat Detection:
 
-a telegram bot for Rouhaniat and other people image classification using tensorflow and keras in python.
+a telegram bot for Rouhaniat and other people image classification using tensorflow and keras.
