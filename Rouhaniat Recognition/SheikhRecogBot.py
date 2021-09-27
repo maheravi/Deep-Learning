@@ -3,7 +3,7 @@ from tensorflow.python.keras.models import load_model
 import numpy as np
 import telebot
 from telebot import types
-bot = telebot.TeleBot('1999107071:AAHO3lcpZJjQexvwJOcbR8D1YVE_7LFu_Ps')
+bot = telebot.TeleBot('Input Your Token')
 
 # buttons = telebot.types.ReplyKeyboardMarkup(row_width=1)
 # btn = telebot.types.KeyboardButton('SendPic')
