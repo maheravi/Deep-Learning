@@ -36,7 +36,7 @@ Weather temperature prediction a day of year using multilayer perceptron with te
 
 A simple classification of wearing or forgetting mask using fine-tuned ResNet50V2 with tensorflow and keras.
 
-Dataset prepared in: [Kaggle musk 12k dataset](kaggle.com/ashishjangra27/gender-recognition-200k-images-celeba)
+Dataset prepared in: [Kaggle mask 12k dataset](kaggle.com/ashishjangra27/gender-recognition-200k-images-celeba)
 
 *Results of confusion Matrix using one epoch are tableau below.*
 | Classes/Classes | WithMask | WithoutMask |
