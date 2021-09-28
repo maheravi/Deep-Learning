@@ -1,4 +1,4 @@
-# Deep-Learning
+- # Deep-Learning
 
 ## MLP vs Deep:
 
