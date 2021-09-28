@@ -25,11 +25,15 @@ an erroneous Iranian and foreign people image classification using tensorflow an
 
 Weather temperature prediction a day of year using multilayer perceptron with tensorflow and keras.
 
+### Kaggle 17 Flowers
+
+17 flowers classification using fine-tuned VGG16 with tensorflow and keras
+
 ### With Musk or Without Mask? 😷
 
 Don't forget your mask!
 
-A simple classification of Wearing or forgetting mask using fine-tuned ResNet50V2 with tensorflow and keras with one epochs.
+A simple classification of Wearing or forgetting mask using fine-tuned ResNet50V2 with tensorflow and keras.
 Dataset prepared by: kaggle.com/ashishjangra27/gender-recognition-200k-images-celeba
 
 Results of confusion Matrix using one epoch are tableau below.
