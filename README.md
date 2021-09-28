@@ -4,8 +4,7 @@
 
 Herein a simple and common compration between multilayer perceptron and deep neural network presented on 4 benchmark dataset which contains: MNist, Fashion MNist, Cfar10, and Cfar100.
 
-Results of model accuracy are tableau below.
-
+*Results of model accuracy are tableau below.*
 | Benchmark Name | MLP| Deep Neural Networks |
 | :---         |     :---:      |          :---: |
 | MNist  | 0.9706     | 0.9967    |
@@ -25,7 +24,7 @@ an erroneous Iranian and foreign people image classification using tensorflow an
 
 Weather temperature prediction a day of year using multilayer perceptron with tensorflow and keras.
 
-Test data loss is 3.2215388
+*Test data loss is 3.2215388*
 
 ## Kaggle 17 Flowers: 
 
@@ -33,12 +32,12 @@ Test data loss is 3.2215388
 
 ## With Musk or Without Mask? 😷
 
-Don't forget your mask!
+####Don't forget your mask!
 
 A simple classification of wearing or forgetting mask using fine-tuned ResNet50V2 with tensorflow and keras.
 Dataset prepared by: kaggle.com/ashishjangra27/gender-recognition-200k-images-celeba
 
-Results of confusion Matrix using one epoch are tableau below.
+*Results of confusion Matrix using one epoch are tableau below.*
 | Classes/Classes | WithMask | WithoutMask |
 | :---         |     :---:      |          :---: |
 | WithMask  | 474     | 9    |
@@ -49,7 +48,7 @@ Results of confusion Matrix using one epoch are tableau below.
 Male or Female classification using using fine-tuned ResNet50V2 with tensorflow and keras.
 Dataset prepared by: kaggle.com/ashishjangra27/face-mask-12k-images-dataset
 
-Results of confusion Matrix using five epochs are tableau below.
+*Results of confusion Matrix using five epochs are tableau below.*
 | Classes/Classes | Male | Female |
 | :---         |     :---:      |          :---: |
 | Male  | 11470     | 72    |
