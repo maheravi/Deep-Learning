@@ -28,6 +28,7 @@ Weather temperature prediction a day of year using multilayer perceptron with te
 ### With Musk or Without Mask? 😷
 
 Don't forget your mask!
+
 A simple classification of Wearing or forgetting mask using fine-tuned ResNet50V2 with tensorflow and keras with one epochs.
 Dataset prepared by: kaggle.com/ashishjangra27/gender-recognition-200k-images-celeba
 
