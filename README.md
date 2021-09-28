@@ -16,21 +16,21 @@ Herein a simple and common compration between multilayer perceptron and deep neu
 
 a telegram bot for Rouhaniat and other people image classification using tensorflow and keras.
 
-## Persian Detection:
+- ## Persian Detection:
 
 an erroneous Iranian and foreign people image classification using tensorflow and keras due to deficiency of data.
 
-## Szeged Hungry weather prediction using MLP:
+- ## Szeged Hungry weather prediction using MLP:
 
 Weather temperature prediction a day of year using multilayer perceptron with tensorflow and keras.
 
 *Test data loss is 3.2215388*
 
-## Kaggle 17 Flowers: 
+- ## Kaggle 17 Flowers: 
 
 17 flowers classification using fine-tuned VGG16 with tensorflow and keras
 
-## With Musk or Without Mask? 😷
+- ## With Musk or Without Mask? 😷
 
 #### Don't forget your mask!
 
@@ -44,7 +44,7 @@ Dataset prepared in: [Kaggle musk 12k dataset](kaggle.com/ashishjangra27/gender-
 | WithMask  | 474     | 9    |
 |WithoutMask    | 10       | 499   |
 
-## Gender Detection 👨👩
+- ## Gender Detection 👨👩
 
 Male or Female classification using using fine-tuned ResNet50V2 with tensorflow and keras.
 
