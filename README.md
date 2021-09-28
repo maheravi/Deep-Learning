@@ -20,7 +20,7 @@ a telegram bot for Rouhaniat and other people image classification using tensorf
 
 an erroneous Iranian and foreign people image classification using tensorflow and keras due to deficiency of data.
 
-- ## Szeged Hungry weather prediction using MLP:
+- ## Szeged Hungry Weather Prediction Using MLP:
 
 Weather temperature prediction a day of year using multilayer perceptron with tensorflow and keras.
 
@@ -30,7 +30,7 @@ Weather temperature prediction a day of year using multilayer perceptron with te
 
 17 flowers classification using fine-tuned VGG16 with tensorflow and keras
 
-- ## With Musk or Without Mask? 😷
+- ## With Mask or Without Mask? 😷
 
 #### Don't forget your mask!
 
@@ -55,3 +55,5 @@ Dataset prepared in: [Kaggle Gender 200K dataset](kaggle.com/ashishjangra27/face
 | :---         |     :---:      |          :---: |
 | Male  | 11470     | 72    |
 |Female    | 1284       | 7175   |
+
+- ## Age Prediction Using Image
