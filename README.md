@@ -25,7 +25,7 @@ an erroneous Iranian and foreign people image classification using tensorflow an
 
 Weather temperature prediction a day of year using multilayer perceptron with tensorflow and keras.
 
-### With Musk or Without Mask? 😷:
+### With Musk or Without Mask? 😷
 
 Don't forget your mask!
 A simple classification of Wearing or forgetting mask using fine tuned ResNet50V2 with tensorflow and keras:
