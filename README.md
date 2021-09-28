@@ -21,6 +21,6 @@ a telegram bot for Rouhaniat and other people image classification using tensorf
 
 an erroneous Iranian and foreign people image classification using tensorflow and keras due to deficiency of data.
 
-### szeged hungry weather prediction using MLP:
+### Szeged Hungry weather prediction using MLP:
 
-weather temperature prediction of day's of year using multilayer perceptron with tensorflow and keras.
+Weather temperature prediction a day of year using multilayer perceptron with tensorflow and keras.
