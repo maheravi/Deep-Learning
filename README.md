@@ -16,3 +16,11 @@ Results of model accuracy are tableau below.
 ### Rouhaniat Detection:
 
 a telegram bot for Rouhaniat and other people image classification using tensorflow and keras.
+
+### Persian Detection:
+
+an erroneous Iranian and foreign people image classification using tensorflow and keras due to deficiency of data.
+
+### szeged hungry weather prediction using MLP:
+
+weather temperature prediction of day's of year using multilayer perceptron with tensorflow and keras.
