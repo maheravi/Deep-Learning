@@ -25,6 +25,8 @@ an erroneous Iranian and foreign people image classification using tensorflow an
 
 Weather temperature prediction a day of year using multilayer perceptron with tensorflow and keras.
 
+Test data loss is 3.2215388
+
 ### Kaggle 17 Flowers: 
 
 17 flowers classification using fine-tuned VGG16 with tensorflow and keras
