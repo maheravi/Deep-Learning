@@ -35,3 +35,9 @@ Dataset prepared by: kaggle.com/ashishjangra27/gender-recognition-200k-images-ce
 
 Male or Female classification using using fine-tuned ResNet50V2 with tensorflow and keras.
 Dataset prepared by: kaggle.com/ashishjangra27/face-mask-12k-images-dataset
+
+Results of confusion Matrix are tableau below.
+| Classes/Classes | Male | Female |
+| :---         |     :---:      |          :---: |
+| Male  | 11470     | 72    |
+|Female    | 1284       | 7175   |
