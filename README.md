@@ -61,7 +61,7 @@ Dataset prepared in: [Kaggle Gender 200K dataset](kaggle.com/ashishjangra27/face
 Dataset prepared in: [Kaggle Gender 200K dataset](kaggle.com/jangedoo/utkface-new)
 
 - ## House price
-- 
+
 House price estimation from visual and textual features.
 
 Dataset prepared in: [Houses Dataset](https://github.com/emanhamed/Houses-dataset)
