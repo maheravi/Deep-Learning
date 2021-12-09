@@ -15,9 +15,8 @@ disc_inp_sz = 28*28
 
 device = torch.device(args.device)
 model = MyModel(disc_inp_sz, latent_size)
-wieght_path = 'FAMnist.pth'
 
-model.load_state_dict(torch.load(wieght_path))
+model.load_state_dict(torch.load('FAMnist.pth'))
 model.eval()
 
 transform = torchvision.transforms.Compose([
