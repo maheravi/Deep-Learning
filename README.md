@@ -65,3 +65,17 @@ Dataset prepared in: [Kaggle Gender 200K dataset](kaggle.com/jangedoo/utkface-ne
 House price estimation from visual and textual features.
 
 Dataset prepared in: [Houses Dataset](https://github.com/emanhamed/Houses-dataset)
+
+# Deep-Learning with PyTorch
+
+- ## Fashion Mnist PyTorch
+
+The Fashion Mnist dataset classification with PyTorch presented. The Model defined by linear fully connected layers. The result accuracy is 0.8157.
+
+
+[x] Train.py
+[x] Test.py (for evaluate)
+[x] Model.py
+[x] Inference.py
+[x] requirements.txt
+[x] FAMnist_PyTorch.ipynb
