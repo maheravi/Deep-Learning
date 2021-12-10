@@ -1,3 +1,0 @@
-1- torch
-2- torchvision
-3- opencv-python
