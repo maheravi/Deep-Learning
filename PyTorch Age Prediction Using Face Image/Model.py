@@ -2,7 +2,7 @@ from torch import nn
 
 
 class MyModel(nn.Module):
-    def __init__(self, input_dims, output_dims):
+    def __init__(self):
         super(MyModel, self).__init__()
         self.conv2d = nn.Sequential(
             nn.Conv2d(3, 32, (3, 3), stride=(1, 1), padding=(1, 1)),
