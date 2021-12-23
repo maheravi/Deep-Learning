@@ -43,8 +43,8 @@ transform = torchvision.transforms.Compose([
 ])
 
 Dataset = torchvision.datasets.ImageFolder(args.dataset, transform=transform)
-n = len(Dataset)  # total number of examples
-n_test = int(0.1 * n)  # take ~10% for test
+n = len(Dataset)
+n_test = int(0.1 * n)
 test_set = torch.utils.data.Subset(Dataset, range(n_test))  # take first 10%
 test_loader = torch.utils.data.DataLoader(test_set, batch_size=batch_size, shuffle=True)
 
