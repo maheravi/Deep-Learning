@@ -79,3 +79,26 @@ The Fashion Mnist dataset classification with PyTorch presented. The Model defin
 - [x] Inference.py
 - [x] requirements.txt
 - [x] FAMnist_PyTorch.ipynb
+
+- ## Mnist Persian
+
+Dataset prepared in: [Kaggle Gender 200K dataset](kaggle.com/jangedoo/utkface-new)
+
+- [x] Train.py
+- [x] Test.py
+- [x] Model.py
+- [x] Inference.py
+- [x] requirements.txt
+- [x] Mnist_Persian.ipynb
+- [x] PersianMnistFinal.pth
+- ## PyTorch Age Prediction Using Face Image
+
+Dataset prepared in: [Kaggle Gender 200K dataset](kaggle.com/jangedoo/utkface-new)
+
+- [x] Train.py
+- [x] Test.py
+- [x] Model.py
+- [x] Inference.py
+- [x] requirements.txt
+- [x] PyTorch_Age_Prediction_Using_Face_Image.ipynb.ipynb
+
