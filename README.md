@@ -72,7 +72,6 @@ Dataset prepared in: [Houses Dataset](https://github.com/emanhamed/Houses-datase
 
 The Fashion Mnist dataset classification with PyTorch presented. The Model defined by linear fully connected layers. The result accuracy is 0.8157.
 
-
 - [x] Train.py
 - [x] Test.py (for evaluate)
 - [x] Model.py
@@ -82,7 +81,7 @@ The Fashion Mnist dataset classification with PyTorch presented. The Model defin
 
 - ## Mnist Persian
 
-Dataset prepared in: [Kaggle Gender 200K dataset](kaggle.com/jangedoo/utkface-new)
+A simpele Persian Mnist classification using PyTorch
 
 - [x] Train.py
 - [x] Test.py
@@ -91,6 +90,7 @@ Dataset prepared in: [Kaggle Gender 200K dataset](kaggle.com/jangedoo/utkface-ne
 - [x] requirements.txt
 - [x] Mnist_Persian.ipynb
 - [x] PersianMnistFinal.pth
+
 - ## PyTorch Age Prediction Using Face Image
 
 Dataset prepared in: [Kaggle Gender 200K dataset](kaggle.com/jangedoo/utkface-new)
