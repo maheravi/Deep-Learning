@@ -102,3 +102,27 @@ Dataset prepared in: [Kaggle Gender 200K dataset](kaggle.com/jangedoo/utkface-ne
 - [x] requirements.txt
 - [x] PyTorch_Age_Prediction_Using_Face_Image.ipynb.ipynb
 
+- ## Mnist Persian TL
+
+A simpele transfer learning using ResNet50 Persian Mnist classification using PyTorch
+
+- [x] Train.py
+- [x] Test.py
+- [x] Model.py
+- [x] Inference.py
+- [x] requirements.txt
+- [x] Mnist_Persian.ipynb
+- [x] PersianMnistFinal.pth
+
+- ## PyTorch Age Prediction Using Face Image TL
+
+PyTorch transfer learning using ResNet50 on kaggle face image age prediction dataset 
+
+Dataset prepared in: [Kaggle Gender 200K dataset](kaggle.com/jangedoo/utkface-new)
+
+- [x] Train.py
+- [x] Test.py
+- [x] Model.py
+- [x] Inference.py
+- [x] requirements.txt
+- [x] PyTorch_Age_Prediction_Using_Face_Image.ipynb.ipynb
